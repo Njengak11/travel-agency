@@ -1,0 +1,33 @@
+body{
+  font-family: fantasy;
+  background-color: pearl-white;
+}
+h1{
+  text-align: center;
+}
+p{
+  text-align: center;
+}
+ul{
+  list-style-type: none;
+  margin:0;
+  padding:0;
+  overflow: hidden;
+  background-color: #302;
+}
+li{
+  float:left;
+}
+li a {
+  display: block;
+  color: green;
+  text-align: center;
+  padding:14px 16px;
+
+}
+li a:hoover{
+  background-color: #111;
+}
+  p{
+    text-align: center;
+  }
